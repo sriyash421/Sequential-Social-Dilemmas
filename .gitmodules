@@ -1,0 +1,3 @@
+[submodule "CommonsGame"]
+	path = CommonsGame
+	url = https://github.com/tiagoCuervo/CommonsGame.git
